@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1645132263 source:c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque\node.cpp
+	"Node.h"
+	<iostream>
+
+1645132025 c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque\node.h
+
+1645444932 source:c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque\main.cpp
+	<iostream>
+	"Deque.h"
+	"Deque.cpp"
+
+1645132263 c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque\node.cpp
+	"Node.h"
+	<iostream>
+
+1645442994 source:c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque\deque.cpp
+	"Deque.h"
+	"Node.h"
+	"Node.cpp"
+	<iostream>
+
+1645442737 c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque\deque.h
+	"Node.h"
+
+1645442994 c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque\deque.cpp
+	"Deque.h"
+	"Node.h"
+	"Node.cpp"
+	<iostream>
+
+1646830322 source:c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque-cpp\deque.cpp
+	"Deque.h"
+	"Node.h"
+	"Node.cpp"
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+
+1646828951 c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque-cpp\deque.h
+	"Node.h"
+	<string>
+
+1646826232 c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque-cpp\node.h
+
+1646826232 c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque-cpp\node.cpp
+	"Node.h"
+	<iostream>
+
+1646829078 source:c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque-cpp\main.cpp
+	<iostream>
+	"Deque.h"
+	"Deque.cpp"
+
+1646830322 c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque-cpp\deque.cpp
+	"Deque.h"
+	"Node.h"
+	"Node.cpp"
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+
+1646826232 source:c:\users\domin\documents\coding\programu sistemos\ads\1 lab\deque-cpp\node.cpp
+	"Node.h"
+	<iostream>
+
